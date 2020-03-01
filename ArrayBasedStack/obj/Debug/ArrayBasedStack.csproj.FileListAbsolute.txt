@@ -1,0 +1,6 @@
+C:\Users\Юрий\source\repos\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe.config
+C:\Users\Юрий\source\repos\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.exe
+C:\Users\Юрий\source\repos\ArrayBasedStack\ArrayBasedStack\bin\Debug\ArrayBasedStack.pdb
+C:\Users\Юрий\source\repos\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.exe
+C:\Users\Юрий\source\repos\ArrayBasedStack\ArrayBasedStack\obj\Debug\ArrayBasedStack.pdb
